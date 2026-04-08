@@ -24,7 +24,7 @@ export default function Home() {
       <main className="min-h-screen bg-white text-gray-900">
         <section className="mx-auto max-w-5xl px-6 py-20">
           <p className="text-sm font-medium text-gray-500">Hello, I’m</p>
-          <h1 className="mt-2 text-5xl font-bold">Chaza Mohammad</h1>
+          <h1 className="mt-2 text-5xl font-bold">Chaza Mohammad add ahmad</h1>
           <p className="mt-6 max-w-2xl text-lg text-gray-600">
             I’m a frontend developer who builds fast, clean, and responsive web
             applications using Next.js, React, and Tailwind CSS.
